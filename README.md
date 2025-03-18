@@ -16,8 +16,10 @@ Well, here's what I'm guessing I might expect (because honestly, who knows what 
 
     - A whole lot of frameworks 🖤
     - Getting to know the architecture of things (so I can eventually say, "Oh, that’s how the magic happens!") 🎩✨
-    -Learning to think like a software developer (without all the imposter syndrome that comes with it... )
+    - Learning to think like a software developer (without all the imposter syndrome that comes with it... )
 
 I’m excited to continue on this journey, and if you're in the same boat...
 
 Let’s learn together!
+
+Check out my profile: 
