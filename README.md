@@ -22,4 +22,4 @@ I’m excited to continue on this journey, and if you're in the same boat...
 
 Let’s learn together!
 
-Check out my profile: 
+Check out my profile: https://github.com/qilahazmi
